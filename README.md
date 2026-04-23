@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Law La Bokra |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 23, 2026 |
+| Lyric Writing Date | April 24, 2026 |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> نار الشوق في قلبي تدور
+> أنتِ السحر وأنتِ النور
+> روحي تهواك بلا أسرار
+> حبنا أقوى من كل نار
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
